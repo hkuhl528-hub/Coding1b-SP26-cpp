@@ -1,6 +1,11 @@
 // Hayden Kuhl Coding 1 spring 2026
 // Our first c++ program
 
+// to compile, open the 'Developer Command Prompt for VS 2022'
+// navigate to this folder with 'cd' for 'change directory'
+// 
+// 
+
 #include <iostream>  // in out stream, for sending text to console.
 #include <string> // for player name
 
